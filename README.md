@@ -66,3 +66,11 @@ Tin the end of the wire so it fits firmly into the socket.
 
 1 x 27C256 EPROM (or compatible - eg AT28C256 will also work)
 I've used a write once compatible EPROM here.
+
+## Optional Switches
+
+Each switch is wired as follows:
+
+- Center pin to EN, top pin to GND, bottom pin to +5V.
+
+Note that the EN should be tied to GND on the PCB if the switch is not used.
