@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.6"
     },
-    "CreationDate": "2023-08-02T13:22:52+10:00"
+    "CreationDate": "2023-08-02T18:22:01+10:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -39,16 +39,6 @@
     {
       "Path": "vic20 rom-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "vic20 rom-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "vic20 rom-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {

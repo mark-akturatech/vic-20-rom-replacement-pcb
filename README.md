@@ -4,6 +4,9 @@
 
 My VIC20's Basic ROM is kaput. So took the opportunity to design a simple PCB to allow both the basic ROM and the Kernal (this is how Commodore spell Kernel) ROM to be replaced with a single 27C256 (this is what I had - double what is needed).
 
+![PCB Front](./assets/vic20-pcb-front.png)
+![PCB Back](./assets/vic20-pcb-back.png)
+
 ## Development
 
 The project is constructed in Kicad. The output files are generated in Gerber format.
